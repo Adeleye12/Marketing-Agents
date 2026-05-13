@@ -1,11 +1,9 @@
-# Marketing-Agents
-
 A curated list of marketing AI agent skills, MCP servers, and open source frameworks
 
-# 🎯 Agent Skills
+## 🎯 Agent Skills
 Collections of instructions, prompts, and workflows that give AI agents specific marketing capabilities.
 
-## Multi-Skill Collections
+### Multi-Skill Collections
 
 * [ericosui/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) - 144 open source AI marketing skills covering growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation.
 
@@ -19,7 +17,7 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 
 * [realjaymes/marketingagentskills](https://github.com/realjaymes/marketingagentskills) - 27 AI agent skills for marketing tasks, built for Claude Code and similar AI coding assistants.
 
-## Research & Intelligence
+### Research & Intelligence
 
 * [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary.
 
@@ -27,7 +25,7 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 
 * [tessak22/rival](https://github.com/tessak22/rival) - Open source competitive intelligence dashboard powered by the Tabstack API.
 
-## GTM & Launch
+### GTM & Launch
 
 * [tessak22/quiver](https://github.com/tessak22/quiver) - AI-powered GTM command center for product teams.
 
@@ -43,6 +41,6 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 
 * [tessak22/DevRel-Campaign-Drive-Awareness-of-Campaign-Template](https://github.com/tessak22/DevRel-Campaign-Drive-Awareness-of-Campaign-Template) - Developer Relations campaign strategy template.
 
-## Growth & Viral
+### Growth & Viral
 
 * [crealwork/go-viral-or-die](https://github.com/crealwork/go-viral-or-die) - Viral marketing skill for Claude Code inspired by Roy Lee (Cluely). Generates audacious, conversion-aware marketing stunts.
