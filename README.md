@@ -6,4 +6,4 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 
 Multi-Skill Collections
 
-[ericosiu/ai-marketing-skills] (https://github.com/ericosiu/ai-marketing-skills) 
+[ericosui/ai-marketing-skills] (https://github.com/ericosiu/ai-marketing-skills) 
